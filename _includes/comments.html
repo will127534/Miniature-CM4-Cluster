@@ -1,6 +1,5 @@
 <section class="comments" id="comment-section">
   <hr>
-  {% if site.data.comments[page.slug] %}
   <!-- Existing comments -->
   <div class="comments__existing">
     <h2>Comments</h2>
@@ -17,7 +16,6 @@
     {% include comment.html is_reply=false uid=uid replying_to=0 email=email name=name url=url date=date message=message uid=uid %}
     {% endfor %}
   </div>
-  {% endif %}
 
   <!-- New comment form -->
   <div id="respond" class="comment__new">
