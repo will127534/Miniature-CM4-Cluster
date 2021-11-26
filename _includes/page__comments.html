@@ -1,5 +1,4 @@
 <section class="page__reactions">
-  {% if site.repository and site.staticman.branch %}
     {% if site.data.comments[page.slug] %}
       <!-- Start static comments -->
       <div id="comments" class="js-comments">
@@ -75,7 +74,6 @@
     {% else %}
       <p><em>Comments are closed. If you have a question concerning the content of this page, please feel free to <a href="/contact/">contact me</a>.</em></p>
     {% endunless %}
-  {% endif %}
 </section>
 
 {% if site.reCaptcha.enabled %}
