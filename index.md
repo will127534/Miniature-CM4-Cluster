@@ -137,7 +137,4 @@ The reason why I'm using POL arch for the power tree is that it minimized the po
 ![](https://i.imgur.com/hn0cuZU.png)
 
 
-
-{% if page.comments == true %}
-  {% include comments.html %}
-{% endif %}
+{% include comments.html %}
