@@ -1,6 +1,7 @@
 theme: jekyll-theme-midnight
 staticman_url: https://staticman-willwhang.herokuapp.com/v2/entry/will127534/CM4-Cluster-Hat/gh-pages/comments
 reCaptcha:
+  enabled: true
   siteKey: 6Lf4710dAAAAANxRwZDNmXeA0rNATnXxSUylD8MO
   secret: DZX476sONQoXjE7X4vRu5ZSuk24HSWU6PBcY2swun75l6MsiZkOebj5qxYKNlpP7TMz9lZ/BYh514cN7bFqitnHScN2eo5TAIQnYK9H2mECJCMpDWbBAal4LNPqVc6b+L+pNCqbl4tqB4OSrr7KM6jbeJV/tNz+gOrkdFM74zKPDBH2QMD8oCbrrQgiobi4/kvKQovOvgbomvBx35Pr7iVM2LgSWCPAWFI3vMGA60c/+uoTqJ2sW/Vp6ZRLEj715d5PcwrOCf8brMvNL6mQonVwSJCfu8D4unzQ1kzLLdFbjKr092q0jqQLBB40bwPzAJhkIcAzP0o77VLQ/XNG1Ng==
 comments: true
