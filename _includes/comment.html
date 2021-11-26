@@ -1,4 +1,3 @@
-
 {%- capture article_class %}js-comment comment{% if include.name == site.author.name %} admin{% endif %}{% if include.is_reply %} child{% endif %}{% endcapture %}
 {% assign comment_id = include.uid | prepend: 'comment-' %}
 <article id="{{ comment_id }}" class="{{ article_class }}" uid="{{ include.uid }}">
