@@ -1,3 +1,8 @@
+---
+comments: true
+slug: index
+---
+
 ![](https://i.imgur.com/k63rKBx.jpg)
 
 
@@ -67,10 +72,8 @@ there are two choices: get a GPIO expander and an ADC or get an MCU. With the cu
 
 It is definitely overkilled but I don't mind the additional 1~2 USD cost difference, but I do mind the software support and ease to use.
 It takes about half an hour to set up the C SDK and start uploading to the chip via SWD plus another 15 minutes to modify the example to have a simple console to control the CM4s.
-
 RP2040 hooks up to the host in multiple ways, an SWD for programming RP2040, USB and UART for communication, and I2C just for fun.
-
-A little bit of side note here is that the current measurement originally comes from a current sense amplifier on the hat, but I added Ti's eFUSE chip onto the cluster board later and it has the current monitor output, so turn to that to save some board space.
+A little bit of side note here is that the current measurement originally comes from a current sense amplifier on the hat, but I added Ti's eFUSE chip onto the cluster board later and it has the current monitor output, so turn to that to save some board space.  
 
 
 ### USB Hub
