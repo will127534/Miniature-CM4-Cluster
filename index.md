@@ -162,6 +162,6 @@ Raspberry Pi 4 compute module is a really neat product that it brings low-cost b
 
 All the PCB files (I'm using KiCad, at the time for designing the version I'm using is V5.99 but it finally just released its v6 RC), are released on Github, and both EEPROM image and RP2040 Code are also uploaded, feel free to grab it and work on your own projects!
 
-[https://github.com/will127534/CM4-Cluster-Hat](https://github.com/will127534/CM4-Cluster-Hat)
+[https://github.com/will127534/Miniature-CM4-Cluster](https://github.com/will127534/Miniature-CM4-Cluster)
 
 {% include comments.html %}
