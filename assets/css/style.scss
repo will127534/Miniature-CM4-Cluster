@@ -1,0 +1,20 @@
+---
+---
+
+@import "jekyll-theme-midnight";
+$base-font-size:    18px !default;
+$comment-font-size: 17px !default;
+$brand-color:       #1E72DC !default;
+$brand-color-light: #1E72DC !default;
+$grey-color:        #757575 !default;
+$base-font-weight:  normal !default;
+$base-line-height:  24px !default;
+$base-font-family:  'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+
+$text-color: #b6b6b6 !default;
+$text-area-bg-color: #252525 !default;
+$small-font-size: 12px !default;
+
+$background-color: #191919 !default;
+
+@import "comment-styles";
