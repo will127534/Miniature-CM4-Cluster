@@ -154,7 +154,7 @@ The reason why I'm using POL arch for the power tree is that it minimized the po
 
 The next steps are to finish a tiny NFS SSD based storage pool for the nodes and start using K3s to run graphana, influxDB, and some real-time AC data analysis from the [Atomic Nixie Clock](https://github.com/will127534/RaspberryPiAtomicNixieClock) (I over-estimate the processing power for what a single CM4 can do at the same time).  
 
-I still hope that one day Google Coral TPU can work with RPI through the PCIe bus, and I can attach it to one of my nodes for a simple inferencing node.
+I still hope that one day Google Coral TPU can work with RPI through the PCIe bus, so I can attach it to one of my nodes for a simple inferencing node.
 
 ## Final Notes & Thought
 
