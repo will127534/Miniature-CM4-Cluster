@@ -1,4 +1,4 @@
-# CM4-Cluster-Hat
+# Miniature CM4 Cluster
 A dense Cluster for four Raspberry Pi 4 Compute Module 4
 
 [https://will127534.github.io/CM4-Cluster-Hat/](https://will127534.github.io/CM4-Cluster-Hat/)
